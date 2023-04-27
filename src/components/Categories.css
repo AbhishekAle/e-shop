@@ -1,0 +1,50 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+.category-card{
+    margin: 10px;
+    color: white;
+    
+}
+
+h1{
+    margin-right: 68rem ;
+    margin-top: 5rem;
+    color: black;
+    font-size: 30px;
+    
+}
+.category-card ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+
+
+.a-1{
+    border-radius: 10px;
+    margin: 20px;
+    width: 18rem;
+    height: 17rem;
+}
+
+ul a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+h3{
+    margin-top: -1rem;
+}
+
+.a-1:hover{
+    border: #7c7a7a solid 2px;
+    transition: .1s ease-out;
+}

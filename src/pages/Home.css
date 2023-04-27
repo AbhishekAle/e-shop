@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+        background-color: #f7f5f2;
+}
+.container-2{
+    list-style: none;
+    
+}
+.banner{
+   margin-left: .5rem;
+    margin-top: 5rem;
+    height: 18rem;
+    width: 80rem;
+    border-radius: 10px;
+    
+    
+}
+
+.container-2 p{
+    margin-top: 5rem;
+}
+
+
+
