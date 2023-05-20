@@ -2,7 +2,6 @@ import React from 'react'
 import './Item-card.css'
 import { Link, useMatch, useResolvedPath  } from 'react-router-dom'
 import  {useState} from "react"
-import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 
 const item1 = [
   

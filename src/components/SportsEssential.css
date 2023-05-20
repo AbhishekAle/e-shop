@@ -1,0 +1,34 @@
+h4{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-right: 65rem;
+    font-size: 30px;
+    font-weight: bold;
+}
+.games{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    
+}
+.Football{
+    height: 35rem;
+    width: 25rem;
+}
+.Basketball{
+    height: 35rem;
+    width: 25rem;
+    
+}
+.Cricket{
+    height: 17.5rem;
+    width: 25rem;
+}
+.Sports{
+    height: 16.5rem;
+    margin-top: 18.5rem;
+    margin-left: -26rem;
+    width: 25rem;
+}

@@ -1,0 +1,44 @@
+.footer{
+    display: flex;
+    margin-top: 2rem;
+    background-color: black;
+    height: 20rem;
+    
+    
+}
+.get-help{
+    padding-left: 5rem;
+    margin-top: -3rem;
+    font-weight: bolder;
+    color: white;
+}
+.get-help ul{
+    margin-top: .5rem;
+    margin-left: 3.8rem;
+    list-style: none;
+    font-size: 13px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: .5rem;
+    font-weight: lighter;
+    color: gray;
+}
+
+.about-eshop{
+    padding-left: 5rem;
+    margin-top: -3rem;
+    font-weight: bolder;
+    color: white;
+}
+.about-eshop ul{
+    margin-top: .5rem;
+    list-style: none;
+    font-size: 13px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: .5rem;
+    font-weight: lighter;
+    color: gray;
+}

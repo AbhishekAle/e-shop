@@ -9,7 +9,7 @@ import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <>
+    
     <div className='container'>
       <Navbar/>
       <Routes>
@@ -18,12 +18,10 @@ function App() {
         <Route path="/women" element={<Women/>}/>
         <Route path="/kids" element={<Kids/>}/>
       </Routes>
+      </div>
+    
+  )};
       
-    </div>
 
-    </>
-  );
-      
-}
 
 export default App;
