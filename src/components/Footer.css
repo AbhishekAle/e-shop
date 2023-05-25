@@ -22,7 +22,7 @@
     flex-direction: column;
     gap: .5rem;
     font-weight: lighter;
-    color: gray;
+    color: rgb(201, 199, 199);
 }
 
 .about-eshop{
@@ -40,5 +40,5 @@
     flex-direction: column;
     gap: .5rem;
     font-weight: lighter;
-    color: gray;
+    color: rgb(201, 199, 199);
 }

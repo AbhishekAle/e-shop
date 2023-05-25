@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
-import { Link, useMatch, useResolvedPath  } from 'react-router-dom'
 import Categories from '../components/Categories'
+import GymEssential from '../components/GymEssential'
 import Slider from '../components/Slider'
 import Itemcard from '../components/Item-card'
 import SportsEssential from '../components/SportsEssential'
@@ -15,8 +15,7 @@ function Home() {
       
       
       <Categories/>
-      <CustomLink to="/nike"><img src='./img/bestrong.png'className='banner' alt='banner'></img></CustomLink>
-      
+      <GymEssential/>
     
       <Itemcard/>
 
@@ -30,18 +29,7 @@ function Home() {
       
 
 
-function CustomLink({to, children, ...props}){
-const resolvePath = useResolvedPath(to)
-const isActive = useMatch({path : resolvePath.pathname, end:true})
 
-  return(
-    <li className={ isActive ? "active" : ""}>
-          <Link to={to} {...props}>
-            {children}
-            </Link>
-        </li>
-  )
-}
 
    
 

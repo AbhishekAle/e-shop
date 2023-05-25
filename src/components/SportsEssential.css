@@ -2,7 +2,7 @@ h4{
     margin-top: 5rem;
     display: flex;
     justify-content: center;
-    margin-right: 65rem;
+    margin-right: 63rem;
     font-size: 30px;
     font-weight: bold;
 }
@@ -32,3 +32,118 @@ h4{
     margin-left: -26rem;
     width: 25rem;
 }
+.football-btn{
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    margin-top: 35rem;
+    padding-bottom: 1px;
+    margin-left: -37rem;
+    position: absolute;
+    cursor: pointer;
+}
+.football-btn:hover{
+    background-color: #a09d9d;
+    transition: 0.2s ease-in;
+}
+
+.cricket-btn{
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    margin-top: 18rem;
+    padding-bottom: 1px;
+    margin-left: -11rem;
+    position: absolute;
+    cursor: pointer;
+}
+.cricket-btn:hover{
+    background-color: #a09d9d;
+    transition: 0.2s ease-in;
+}
+
+.sports-btn{
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    margin-top: 35rem;
+    padding-bottom: 1px;
+    margin-left: -11rem;
+    position: absolute;
+    cursor: pointer;
+    
+}
+.sports-btn:hover{
+    background-color: #a09d9d;
+    transition: 0.2s ease-in;
+}
+
+.basketball-btn{
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    margin-top: 35rem;
+    padding-bottom: 1px;
+    margin-left: 15rem;
+    position: absolute;
+    cursor: pointer;
+    
+}
+.basketball-btn:hover{
+    background-color: #a09d9d;
+    transition: 0.2s ease-in;
+}
+
+.text3{
+    display: flex;
+    position: absolute;
+    margin-top: 26rem;
+    margin-right: 63rem;
+    color: #f7f5f2;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.text4{
+    display: flex;
+    position: absolute;
+    margin-top: 9rem;
+    margin-right: 11.5rem;
+    color: #f7f5f2;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.text5{
+    display: flex;
+    position: absolute;
+    margin-top: 26rem;
+    margin-right: 11.5rem;
+    color: #f7f5f2;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.text6{
+    
+    display: flex;
+    position: absolute;
+    margin-top: 26rem;
+    margin-right: -40.7rem;
+    color: #f7f5f2;
+    font-size: 28px;
+    font-weight: bold;
+}
+

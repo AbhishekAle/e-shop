@@ -1,0 +1,91 @@
+h5{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    margin-right: 65.5rem;
+    font-size: 30px;
+    font-weight: bold;
+}
+.gym{
+    margin-top: 2rem;
+    margin-right: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    
+}
+.shoes{
+    display: flex;
+    height: 40rem;
+    
+}
+
+.clothing{
+    display: flex;
+    height: 40rem;
+    
+    
+}
+
+.shoes-btn{
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    margin-top: 36rem;
+    padding-bottom: 1px;
+    margin-left: 3.9rem;
+    position: absolute;
+    cursor: pointer;
+}
+
+.shoes-btn:hover{
+    background-color: #a09d9d;
+    transition: 0.2s ease-in;
+}
+
+.clothing-btn{
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    margin-top: 36rem;
+    margin-left: 43.9rem;
+    padding-bottom: 1px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.clothing-btn:hover{
+    background-color: #a09d9d;
+    transition: 0.2s ease-in;
+}
+
+.text1{
+    display: flex;
+    position: absolute;
+    margin-top: 31rem;
+    margin-right: 67.5rem;
+    color: #f7f5f2;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.text2{
+    display: flex;
+    position: absolute;
+    margin-top: 31rem;
+    margin-left: 16rem;
+    color: #f7f5f2;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+    
+   
